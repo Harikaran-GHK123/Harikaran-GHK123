@@ -10,14 +10,14 @@
 ### 🚲 Bicycle eCart Website
 A fully responsive bicycle e-commerce website with cart functionality, sleek UI, and modern animations.  
 🔗 [View Project](https://github.com/Harikaran-GHK123/Bicycle-e-cart-website))  
-💡 Tech Used: `HTML` `CSS` `JavaScript` `Bootstrap`
+💡 Tech Used: `HTML` `CSS` `JavaScript` `Bootstrap` `Angular` `firebase`
 
 ---
 
 ### 🛠️ Workshop Service Booking App
 A Workshop service booking web app for booking vehicle services with real-time status and map integration.  
 🔗 [View Project](https://github.com/Harikaran-GHK123/Workshop-service-booking)  
-💡 Tech Used: `Angular` `TypeScript` `Firebase` `Figma (UI Design)`
+💡 Tech Used: `Angular` `TypeScript` `HTML & CSS` 
 
 ---
 
@@ -27,9 +27,9 @@ A Workshop service booking web app for booking vehicle services with real-time s
 ---
 
 ## 🌐 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 🌐 [Portfolio Website](https://yourwebsite.com)
-- 📧 harikaranghk@example.com
+- 💼 [LinkedIn](https://harikaran-ghk123.github.io/Hari-portfolio/)
+- 🌐 [Portfolio Website](https://github.com/Harikaran-GHK123))
+
 
 ---
 
