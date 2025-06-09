@@ -1,20 +1,36 @@
 # 👋 Hi, I'm Harikaran G!
 
-🎨 I'm a passionate **UI/UX Designer** & 💻 Front-End Developer  
-🚀 I love building websites that are functional, beautiful, and fast.
+🎨 Passionate **UI/UX Designer** & 💻 Front-End Developer  
+🚀 I build practical, elegant web solutions with a user-first mindset.
+
+---
 
 ## 🚀 Projects
-- 🎨 [Hari Portfolio](https://github.com/Harikaran-GHK123/Hari-portfolio)
-- 🔧 Personal Tools: AI + Figma Automation (Coming Soon)
 
-## 🧰 Skills
-`HTML` `CSS` `JavaScript` `Angular` `Figma` `Adobe XD` `VS Code`
+### 🚲 Bicycle eCart Website
+A fully responsive bicycle e-commerce website with cart functionality, sleek UI, and modern animations.  
+🔗 [View Project](https://github.com/Harikaran-GHK123/Bicycle-e-cart-website))  
+💡 Tech Used: `HTML` `CSS` `JavaScript` `Bootstrap`
 
-## 💬 Let's Connect
+---
+
+### 🛠️ Workshop Service Booking App
+A Workshop service booking web app for booking vehicle services with real-time status and map integration.  
+🔗 [View Project](https://github.com/Harikaran-GHK123/Workshop-service-booking)  
+💡 Tech Used: `Angular` `TypeScript` `Firebase` `Figma (UI Design)`
+
+---
+
+## 🧰 Skills & Tools
+`HTML` `CSS` `JavaScript` `Angular` `Figma` `Bootstrap` `Git` `VS Code` `Adobe XD`
+
+---
+
+## 🌐 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
 - 🌐 [Portfolio Website](https://yourwebsite.com)
 - 📧 harikaranghk@example.com
 
 ---
-> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
 
+> “Good design is invisible but unforgettable.” – Harikaran G
