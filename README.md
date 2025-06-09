@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Harikaran G!
 
-<!--
-**Harikaran-GHK123/Harikaran-GHK123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 I'm a passionate **UI/UX Designer** & 💻 Front-End Developer  
+🚀 I love building websites that are functional, beautiful, and fast.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🎨 [Hari Portfolio](https://github.com/Harikaran-GHK123/Hari-portfolio)
+- 🔧 Personal Tools: AI + Figma Automation (Coming Soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Skills
+`HTML` `CSS` `JavaScript` `Angular` `Figma` `Adobe XD` `VS Code`
+
+## 💬 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 🌐 [Portfolio Website](https://yourwebsite.com)
+- 📧 harikaranghk@example.com
+
+---
+> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
+
