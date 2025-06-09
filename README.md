@@ -21,6 +21,13 @@ A Workshop service booking web app for booking vehicle services with real-time s
 
 ---
 
+### 🛠️ UX UI Designer
+Enhance your institution’s thesis management with secure and efficient end-to-end workflows. Stay connected with us for updates(not in live).  
+🔗 [View Project](https://www.thesisflow.com/)  
+💡 Tech Used: `Figma` `Animations` `responsive` 
+
+---
+
 ## 🧰 Skills & Tools
 `HTML` `CSS` `JavaScript` `Angular` `Figma` `Bootstrap` `Git` `VS Code` `Adobe XD`
 
